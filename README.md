@@ -23,6 +23,8 @@ As a blockchain analyst, I have worked on various projects on EVM-compatible cha
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1RU07E4Jy9tEKR6XXhGZde8clNW7MGBor/view?usp=share_link)
 
 </br>
+</br>
+</br>
 
 
 📈 **My GitHub Stats:**
