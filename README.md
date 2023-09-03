@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=0xAnon0602)
 
-I am backend engineer and blockchain analyst.
+I am full stack engineer and blockchain analyst.
 
 As a blockchain analyst, I have worked on various projects on EVM-compatible chains such as Ethereum, Polygon, Avalanche, and Hedera Hashgraph.
 
@@ -16,7 +16,6 @@ As a blockchain analyst, I have worked on various projects on EVM-compatible cha
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m sophomore fresher at BITS PILANI;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Frontend Development;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: utkarshshail005@protonmail.com;
 
