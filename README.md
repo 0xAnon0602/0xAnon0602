@@ -13,7 +13,7 @@ As a blockchain analyst, I have worked on various projects on EVM-compatible cha
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m sophomore at BITS PILANI;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
@@ -27,7 +27,16 @@ As a blockchain analyst, I have worked on various projects on EVM-compatible cha
 
 📈 **My GitHub Stats:**
 
+</br>
+
+
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xAnon0602&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnon0602&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xanon0602&show_icons=true&include_all_commits=true&theme=algolia" />
+
+  </br>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnon0602&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
